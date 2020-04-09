@@ -71,7 +71,7 @@ we just modify a few things to suit our needs.
 
 #### What should it do?
 
-So we have to HTTP servers. The one for pingbacks and one for the actual information interchange
+So we have two HTTP servers. The one for pingbacks and one for the actual information interchange
 
 1. Pingback HTTP Server
  
